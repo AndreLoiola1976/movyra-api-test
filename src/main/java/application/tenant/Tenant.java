@@ -1,4 +1,4 @@
-package ai.movyra.domain;
+package application.tenant;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.*;
